@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4196678-d931-4799-99b6-4e3db5d60450" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Tello_Course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicMovements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ColorPicker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompleteCodeCourse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceTracking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceTracking/FindingFace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceTracking/GetFrameFromDrone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceTracking/SetupDrone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceTracking/TrackingFace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageCapture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeyPressModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeyboardControl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LineFollower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectTracking/FollowObject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.cd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Surveillance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="32Ugfk8Q3Y3u67zBfjTSEDrAgQf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4196678-d931-4799-99b6-4e3db5d60450" name="Changes" comment="" />
+      <created>1757480675189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757480675189</updated>
+      <workItem from="1757480851502" duration="3178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
