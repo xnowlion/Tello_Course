@@ -20,7 +20,7 @@ sleep(2)
 
 me.send_rc_control(0, 0, 0, 30)
 
-#sleep(2)
+sleep(2)
 
 me.flip_back()
 
