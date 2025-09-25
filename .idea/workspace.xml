@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4196678-d931-4799-99b6-4e3db5d60450" name="Changes" comment="Testing commit from Vivo">
-      <change afterPath="$PROJECT_DIR$/Project-KeyboardControlmageCapture.py" afterDir="false" />
+    <list default="true" id="c4196678-d931-4799-99b6-4e3db5d60450" name="Changes" comment="Captured images with Keyboard">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mapping.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
     "Python.ImageCapture.executor": "Run",
     "Python.KeyPressModule.executor": "Run",
     "Python.KeyboardControl.executor": "Run",
+    "Python.Mapping.executor": "Run",
     "Python.Project-KeyboardControlmageCapture.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -98,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758165853884</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Captured images with Keyboard">
+      <option name="closed" value="true" />
+      <created>1758764024985</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758764024985</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +127,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st commit snowlion" />
     <MESSAGE value="Testing commit from Vivo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing commit from Vivo" />
+    <MESSAGE value="Captured images with Keyboard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Captured images with Keyboard" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
