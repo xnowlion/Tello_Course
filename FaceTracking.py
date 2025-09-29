@@ -26,6 +26,15 @@ time.sleep(2.2)
 w, h = 360, 240
 
 # Forward Backward range defined by area of the face
+# The drone will try to maintain the face area within this range to keep an optimal distance from the face.
+# If the area is less than 6200, the drone will move forward. If the area is greater than 6800, the drone will move backward.
+# if the area is more than 6200 and less than 6800, the drone will stay in place.
+# The area is calculated based on the width and height of the detected face in the video frame.
+# This range may need to be adjusted based on the specific environment and the size of the face being tracked.
+# 6200 to 6,800 is a good starting point for most scenarios.
+# for reference, an average adult face occupies an area of approximately 8,000 to 10,000 pixels in a 640x480 image when the person is about 1 meter away from the camera.
+# Adjusting the range to 6200-6800 helps to ensure that the drone maintains a comfortable distance from the face, allowing for better tracking and reducing the risk of collision.
+# 6200 is to close, 6800 is too far
 fbRange = [6200, 6800]
 
 # Proportional, Integral, Derivative values are based on tuning tests. These values may need to be adjusted for different environments or drones.
