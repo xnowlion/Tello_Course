@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4196678-d931-4799-99b6-4e3db5d60450" name="Changes" comment="Captured images with Keyboard">
+    <list default="true" id="c4196678-d931-4799-99b6-4e3db5d60450" name="Changes" comment="Mapping 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mapping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceTracking.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceTracking.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;xnowlion&quot;
-  }
+  &quot;lastFilter&quot;: {}
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -43,33 +40,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.BasicMovements.executor": "Run",
-    "Python.ImageCapture.executor": "Run",
-    "Python.KeyPressModule.executor": "Run",
-    "Python.KeyboardControl.executor": "Run",
-    "Python.Mapping.executor": "Run",
-    "Python.Project-KeyboardControlmageCapture.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/snowlion/GitHub/Tello_Course",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.BasicMovements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ImageCapture.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KeyPressModule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KeyboardControl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mapping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Project-KeyboardControlmageCapture.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/snowlion/GitHub/Tello_Course&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
+        <option value="bundled-python-sdk-b030e9c4a83c-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26199.168" />
       </set>
     </attachedChunks>
   </component>
@@ -107,7 +104,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758764024985</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Mapping 1">
+      <option name="closed" value="true" />
+      <created>1758767342917</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758767342917</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Mapping 1">
+      <option name="closed" value="true" />
+      <created>1758767673240</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758767673240</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +141,8 @@
     <MESSAGE value="1st commit snowlion" />
     <MESSAGE value="Testing commit from Vivo" />
     <MESSAGE value="Captured images with Keyboard" />
-    <option name="LAST_COMMIT_MESSAGE" value="Captured images with Keyboard" />
+    <MESSAGE value="Mapping 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mapping 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
