@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4196678-d931-4799-99b6-4e3db5d60450" name="Changes" comment="Face Tracking with comments for better understanding. XML haarcascade files added.">
-      <change beforePath="$PROJECT_DIR$/FaceTracking.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceTracking.py" afterDir="false" />
+    <list default="true" id="c4196678-d931-4799-99b6-4e3db5d60450" name="Changes" comment="Face Tracking with more comments for better understanding about the forward/backward range/distance">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LineFollower.py" beforeDir="false" afterPath="$PROJECT_DIR$/LineFollower.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759122175374</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Face Tracking with more comments for better understanding about the forward/backward range/distance">
+      <option name="closed" value="true" />
+      <created>1759122538935</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759122538935</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +159,8 @@
     <MESSAGE value="Captured images with Keyboard" />
     <MESSAGE value="Mapping 1" />
     <MESSAGE value="Face Tracking with comments for better understanding. XML haarcascade files added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Face Tracking with comments for better understanding. XML haarcascade files added." />
+    <MESSAGE value="Face Tracking with more comments for better understanding about the forward/backward range/distance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Face Tracking with more comments for better understanding about the forward/backward range/distance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
