@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4196678-d931-4799-99b6-4e3db5d60450" name="Changes" comment="Face Tracking with more comments for better understanding about the forward/backward range/distance">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c4196678-d931-4799-99b6-4e3db5d60450" name="Changes" comment="Adding Comments to the code based on Github Copilot suggestions about the drone's navigation adjustments based on how centered is the drone in the white line to be followed in the path">
       <change beforePath="$PROJECT_DIR$/LineFollower.py" beforeDir="false" afterPath="$PROJECT_DIR$/LineFollower.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759122538935</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adding Comments to the code based on Github Copilot suggestions about the drone's navigation adjustments based on how centered is the drone in the white line to be followed in the path">
+      <option name="closed" value="true" />
+      <created>1759464618424</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759464618424</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +167,8 @@
     <MESSAGE value="Mapping 1" />
     <MESSAGE value="Face Tracking with comments for better understanding. XML haarcascade files added." />
     <MESSAGE value="Face Tracking with more comments for better understanding about the forward/backward range/distance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Face Tracking with more comments for better understanding about the forward/backward range/distance" />
+    <MESSAGE value="Adding Comments to the code based on Github Copilot suggestions about the drone's navigation adjustments based on how centered is the drone in the white line to be followed in the path" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Comments to the code based on Github Copilot suggestions about the drone's navigation adjustments based on how centered is the drone in the white line to be followed in the path" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
