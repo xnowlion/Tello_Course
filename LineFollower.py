@@ -79,6 +79,7 @@ weights = [-25, -15, 0, 15, 25]
 # A forward speed of 15 is a good starting point for basic line following tasks.
 # If the drone is moving too fast and overshooting the line, try reducing this value.
 # If the drone is moving too slowly and not keeping up with the line, try increasing this value.
+############################# Copilot Generated Comments as suggestions ##############################################################################
 # Make sure to test the drone's performance at different speeds to find the optimal setting for your specific setup.
 # Note: Always ensure that the drone has enough space to maneuver safely at the chosen speed.
 # Note: The forward speed should be set in conjunction with the sensitivity and weights to achieve smooth and effective line following behavior.
@@ -90,6 +91,7 @@ weights = [-25, -15, 0, 15, 25]
 # Note: The forward speed should be tested in different environments to ensure consistent performance.
 # Note: The forward speed may also need to be adjusted based on the drone's payload, as carrying additional weight may affect the drone's speed and maneuverability.
 # Note: The forward speed should be set in conjunction with the drone's turning rate to ensure
+########################################################################################################################################################
 fSpeed = 15
 
 # Initial curve value for turning adjustments
